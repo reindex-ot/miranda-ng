@@ -1,0 +1,70 @@
+#muuid {4bb5b4aa-c364-4f23-9746-d5b708a286a5}
+;============================================================
+;  File: ConnectionNotify.dll
+;  Plugin: Connection Notify
+;  Version: 0.1.0.6
+;  Authors: MaKaR
+;============================================================
+[Notify with popup if some connection established]
+;file \protocols\ConnectionNotify\res\ConnectionNotify.rc
+[Set popup colors]
+ポップアップの色を設定
+[Popup options]
+ポップアップオプション
+[Background]
+背景
+[Text]
+テキスト
+[Close after:]
+[sec (0 default, -1 disabled)]
+[try resolve addresses]
+[Show notification if no filter defined]
+[Attempt interval (ms)]
+[Delete]
+削除
+['Online' means:]
+[Filters]
+フィルター
+[Move down]
+下に移動
+[Move up]
+上に移動
+[Add]
+追加
+[Rule editor]
+ルールエディタ
+[Application name]
+アプリケーション名
+[Local IP:Port]
+ローカル IP: ポート
+[Action:]
+アクション:
+[Cancel]
+キャンセル
+[* and ? wildcard characters also available (for port enter number or *)]
+[Remote IP:Port]
+リモート IP: ポート
+;file \protocols\ConnectionNotify\src\ConnectionNotify.cpp
+[New Connection Notification]
+;file \protocols\ConnectionNotify\src\filter.cpp
+[Always show popup]
+常にポップアップを表示
+[Never show popup]
+[First close options window]
+;file \protocols\ConnectionNotify\src\options.cpp
+[Show]
+表示
+[Hide]
+隠す
+[Status]
+ステータス
+[Application]
+アプリケーション
+[Internal socket]
+内部ソケット
+[External socket]
+外部ソケット
+[Action]
+アクション
+[Plugins]
+プラグイン

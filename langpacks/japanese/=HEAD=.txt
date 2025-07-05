@@ -1,0 +1,4 @@
+Miranda Language Pack Version 1
+Language: Japanese
+Locale: 0411
+Authors: Re*Index.(ot_inc)
